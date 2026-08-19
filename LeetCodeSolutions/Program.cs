@@ -1,4 +1,5 @@
 ﻿using LeetCodeSolutions.Arrays;
+using LeetCodeSolutions.Math;
 
 namespace LeetCodeSolutions
 {
@@ -11,6 +12,9 @@ namespace LeetCodeSolutions
             Console.WriteLine("LeetCode Solutions Repository");
 
             // Temporary test space
+           
+
+
 
             Console.ReadLine();
         }
