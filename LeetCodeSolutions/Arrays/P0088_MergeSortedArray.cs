@@ -18,7 +18,7 @@ namespace LeetCodeSolutions.Arrays
             {
                 if (nums1[p1] > nums2[p2])
                 {
-                    nums1[p] = nums1[p2];
+                    nums1[p] = nums1[p1];
                     p1--;
 
                 }
