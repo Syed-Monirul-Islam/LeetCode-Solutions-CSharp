@@ -22,7 +22,6 @@ namespace LeetCodeSolutions.Arrays
                 }
             }
 
-            
             return nums[nums.Length - 1];
         }
     }
